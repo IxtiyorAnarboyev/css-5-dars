@@ -1,0 +1,106 @@
+body{
+    background-color: pink;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item-1{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid brown;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.box-item-2{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid darkblue;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.box-item-3{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid orange;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.box-item-4{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid aqua;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.box-item-5{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid yellow;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.box-item-6{
+    width: 320px;
+    height: 250px;
+    border: 1px solid black;
+    border-top: 5px solid blue;
+    border-radius: 50px;
+    border-top-left-radius:15px ;
+    background-color: white;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-style: italic;
+    float: left;
+    margin: 20px 20px;
+    border-bottom-left-radius: 20px;
+}
+.clear{
+    clear: both;
+}

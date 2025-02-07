@@ -1,0 +1,90 @@
+body{
+    background-color: white;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.solid{
+    width: 200px;
+    height: 200px;
+    border: 5px solid grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.dashed{
+    width: 200px;
+    height: 200px;
+    border: 5px dashed grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.dotted{
+    width: 200px;
+    height: 200px;
+    border: 5px dotted grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.double{
+    width: 200px;
+    height: 200px;
+    border: 5px double grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-bottom: 60px;
+}
+.inset{
+    width: 200px;
+    height: 200px;
+    border: 15px inset grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.outset{
+    width: 200px;
+    height: 200px;
+    border: 15px outset grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.groove{
+    width: 200px;
+    height: 200px;
+    border: 15px groove grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
+.clear{
+    clear: both;
+}
+.ridge{
+    width: 200px;
+    height: 200px;
+    border: 15px ridge grey;
+    text-align: center;
+    line-height: 200px;
+    font-size: 40px;
+    float: left;
+    margin-right: 60px;
+}
